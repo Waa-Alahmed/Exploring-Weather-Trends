@@ -1,4 +1,4 @@
-# Udacity_P1_Exploring-Weather-Trends
+Exploring-Weather-Trends
 
 # Project Objective:
 analyze local and global temperature data on the Celsius
